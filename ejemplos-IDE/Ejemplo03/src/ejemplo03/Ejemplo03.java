@@ -14,7 +14,7 @@ public class Ejemplo03 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) -
         // Para crear un comentario de una linea debo coloar doble eslash 
         
         /*
@@ -40,12 +40,14 @@ public class Ejemplo03 {
         q
         q
         */
+    
         int variable1;
-        int variable2 = 10;
-        int valorInicial = 18;
-        int valor_inicial = 18;
-        // int valor inicial = 18;
-        int valor_inicial_2 = 18;
+    int variable2 = 10;
+    int valorInicial = 18;
+    int valor_inicial = 18;
+    // int valor inicial = 18;
+    int valor_inicial_2 = 18;
+    
 
         // Tipo de datos Double - Decimal
         double variable3;
