@@ -15,7 +15,14 @@ public class Ejemplo03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Tipos de dato en Java
+        // Para crear un comentario de una linea debo coloar doble eslash 
+        
+        /*
+        
+        Para crear un comentario de multilinea se debe ingresar un slash seguido de un asterisco, ingresamos el comentario y finalmente colocamos un asterismo y un slash para terminar.
+        
+        */
+        
         
         // Tipos de dato en Java
 
